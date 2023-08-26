@@ -1,0 +1,35 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url(https://www.studentprojects.live/wp-content/uploads/2022/02/Library-Management-System.jpg)
+    no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+label {
+  font-size: 1.5rem;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+/* #bookTable {
+  color: #ffffff;
+} */
+.modal {
+  color: #000;
+}
+h1 {
+  font-size: 5rem;
+  font-weight: bolder;
+  color: rgb(255, 255, 255);
+}
+.bd > th {
+  background-color: rgb(49, 47, 33);
+  color: aliceblue;
+}
+.btn> button{
+	display: hide;
+	
+}
